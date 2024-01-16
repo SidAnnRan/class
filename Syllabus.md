@@ -60,12 +60,22 @@ All of the graded components will be measured in points. Contributions to the gr
 Instructions for in-class quizzes or surveys will be given on-the-fly, in class. There will be upto one quiz/survey per class.
 
 ### Homeworks
-Homework submissions will be through Github. There will be 8-10 homeworks over the course of the semester.
+Homework problem specifications will be shared through Github, and submissions will be through ICON (we may switch to submissions 
+via Github later in the semester). There will be 8-10 homeworks over the course of the semester.
 
 ### Project 
-Project submission will be through Github. Project will be specified after Spring Break. 
+Project will be specified through Github, and submission will either be through Github or ICON (TBD). Project will be specified 
+after Spring Break and due in finals week.
 
-### Tentative Calendar
+### Late Submissions
+Assigned work must be completed by the designated due dates. This is done to ensure the integrity of the grading and fairness 
+to the rest of the class. Any assignments not submitted at the assigned time will be considered late, and will be subject to a penalty of a 25% reduction in total points for every 24-hour period they are late. Reach out to the instructor (not the TA)
+for exceptional circumstances before the deadline.
+
+## Tentative Calendar
+The following calendar is only to provide some structure, things will change depending on student
+feedback. For example, getting used to the tools might take more class time during the semester,
+and if students show enough interest, we might spend more time on some tool features.
 | Week # | Date  | Topic                          |
 |--------|-------|--------------------------------|
 | Week 1 | 01/16 | Intro - class, language, tools; survey; first C++ program | 
@@ -84,7 +94,7 @@ Project submission will be through Github. Project will be specified after Sprin
 | Week 14 | 04/15 | Data Structures from std: sets, vectors, etc.
 | Week 15 | 04/22 | TBD
 | Week 16 | 04/29 | TBD
-| Week 17 | 05/06 | Finals Week
+| Week 17 | 05/06 | Finals Week (Project submission)
 
 ## Academic Misconduct
 All students in CLAS courses are expected to abide by the [CLAS Code of Academic Honesty](https://clas.uiowa.edu/students/handbook/academic-fraud-honor-code). Undergraduate academic misconduct must be reported by instructors to CLAS according to [these](https://clas.uiowa.edu/faculty/undergraduate-teaching-policies-resources/academic-misconduct) procedures.

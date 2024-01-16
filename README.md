@@ -1,4 +1,4 @@
-This repository contains resources for the Programming Languages and Tools (CS:3210) class in Spring 2024. 
+This repository contains resources for the Spring 2023 offering of the Programming Languages and Tools (CS:3210) class. 
 Material will occasionally be pushed and you will be notified so you can pull any new changes. 
 
 Links:
