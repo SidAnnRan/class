@@ -69,7 +69,7 @@ after Spring Break and due in finals week.
 
 ### Late Submissions
 Assigned work must be completed by the designated due dates. This is done to ensure the integrity of the grading and fairness 
-to the rest of the class. Any assignments not submitted at the assigned time will be considered late, and will be subject to a penalty of a 25% reduction in total points for every 24-hour period they are late. Reach out to the instructor (not the TA)
+to the rest of the class. Any assignments not submitted at the assigned time will be considered late, and will be subject to a penalty of a 20% reduction in total points for every 24-hour period they are late. Reach out to the instructor (not the TA)
 for exceptional circumstances before the deadline.
 
 ## Tentative Calendar
@@ -95,6 +95,11 @@ and if students show enough interest, we might spend more time on some tool feat
 | Week 15 | 04/22 | TBD
 | Week 16 | 04/29 | TBD
 | Week 17 | 05/06 | Finals Week (Project submission)
+
+## Discussion
+We will primarily use Slack for discussions (both public and private) related to class. Use email only for important information
+(for example administrative queries that might be good to have on record). Please start your subject line with "CS:3210" if you 
+are sending me or the TA an email.
 
 ## Academic Misconduct
 All students in CLAS courses are expected to abide by the [CLAS Code of Academic Honesty](https://clas.uiowa.edu/students/handbook/academic-fraud-honor-code). Undergraduate academic misconduct must be reported by instructors to CLAS according to [these](https://clas.uiowa.edu/faculty/undergraduate-teaching-policies-resources/academic-misconduct) procedures.
