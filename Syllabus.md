@@ -7,7 +7,9 @@ Spring 2024
 
 **Meeting Time:** 6:30-7:45PM Monday and Wednesday\
 **Meeting Location:** 301 MLH (in-person only)\
-**Description:** This course covers the basics of the C++ programming language and its usage in a Linux environment. The main programming tools that will be introduced and used through the course are version control using Git and interacting with the Linux shell through the command-line. Students are assumed to have previous programming experience at the level of CS:1210.\
+**Description:** This course covers the basics of the C++ programming language and its usage in a Linux environment. Tools and skills
+that will be used and emphasized through the course are version control using Git, and interacting with the Linux shell through 
+the command-line. Students are assumed to have previous programming experience at the level of CS:1210.\
 **Textbook:** None. We will use online resources that will be provided as we go. A general reference is https://www.learncpp.com/
 ## People
 
@@ -51,7 +53,7 @@ All of the graded components will be measured in points. Contributions to the gr
 
 | Evaluation | Percentage |
 |------------|------------|
-| Quizzes    | 20% |
+| Quizzes/Surveys    | 20% |
 | Homeworks  | 50% |
 | Project    | 30% |
 
@@ -64,7 +66,7 @@ Homework problem specifications will be shared through Github, and submissions w
 via Github later in the semester). There will be 8-10 homeworks over the course of the semester.
 
 ### Project 
-Project will be specified through Github, and submission will either be through Github or ICON (TBD). Project will be specified 
+Project will be specified through Github, and submission will be through either Github or ICON (TBD). Project will be specified 
 after Spring Break and due in finals week.
 
 ### Late Submissions
@@ -73,12 +75,12 @@ to the rest of the class. Any assignments not submitted at the assigned time wil
 for exceptional circumstances before the deadline.
 
 ## Tentative Calendar
-The following calendar is only to provide some structure, things will change depending on student
-feedback. For example, getting used to the tools might take more class time during the semester,
+The following calendar is only to provide some rough structure, things will change depending on student
+feedback and class pace. For example, getting used to the tools might take more class time during the semester,
 and if students show enough interest, we might spend more time on some tool features.
 | Week # | Date  | Topic                          |
 |--------|-------|--------------------------------|
-| Week 1 | 01/16 | Intro - class, language, tools; survey; first C++ program | 
+| Week 1 | 01/16 | Intro to Class, Language, Tools; Survey; First C++ Program | 
 | Week 2 | 01/22 | Functions, Types, Variables, Constants
 | Week 3 | 01/29 | Expressions, Statements, Operators
 | Week 4 | 02/05 | Functions
@@ -91,7 +93,7 @@ and if students show enough interest, we might spend more time on some tool feat
 | Week 11 | 03/25 | Polymorphism
 | Week 12 | 04/01 | Error Handline & Exceptions
 | Week 13 | 04/08 | Pointers
-| Week 14 | 04/15 | Data Structures from std: sets, vectors, etc.
+| Week 14 | 04/15 | Data Structures from std: Sets, Vectors, etc.
 | Week 15 | 04/22 | TBD
 | Week 16 | 04/29 | TBD
 | Week 17 | 05/06 | Finals Week (Project submission)
@@ -99,7 +101,7 @@ and if students show enough interest, we might spend more time on some tool feat
 ## Discussion
 We will primarily use Slack for discussions (both public and private) related to class. Use email only for important information
 (for example administrative queries that might be good to have on record). Please start your subject line with "CS:3210" if you 
-are sending me or the TA an email.
+are sending the instructor/TA an email.
 
 ## Academic Misconduct
 All students in CLAS courses are expected to abide by the [CLAS Code of Academic Honesty](https://clas.uiowa.edu/students/handbook/academic-fraud-honor-code). Undergraduate academic misconduct must be reported by instructors to CLAS according to [these](https://clas.uiowa.edu/faculty/undergraduate-teaching-policies-resources/academic-misconduct) procedures.
