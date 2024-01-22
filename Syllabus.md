@@ -11,6 +11,7 @@ Spring 2024
 that will be used and emphasized through the course are version control using Git, and interacting with the Linux shell through 
 the command-line. Students are assumed to have previous programming experience at the level of CS:1210.\
 **Textbook:** None. We will use online resources that will be provided as we go. A general reference is https://www.learncpp.com/
+
 ## People
 
 ### Instructor
