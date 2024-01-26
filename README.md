@@ -4,3 +4,4 @@ Material will occasionally be pushed and you will be notified so you can pull an
 Links:
 - [Course Syllabus](./Syllabus.md)
 - [Linux Command-Line Cheatsheet](./CommandLine.md)
+- Weekly [Readings](./Readings.md)
