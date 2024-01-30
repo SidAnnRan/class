@@ -1,5 +1,5 @@
 # Problem 3
-The following program code should print `Hello, Buggy World` on to the screen. However, it doesn't
+The following program code should print `Hello Buggy World` on to the screen. However, it doesn't
 compile because of a bug. 
 ```
 include <iostream>
