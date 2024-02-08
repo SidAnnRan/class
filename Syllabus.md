@@ -92,7 +92,7 @@ and if students show enough interest, we might spend more time on some tool feat
 | Week 9 | 03/11 | Spring Break
 | Week 10 | 03/18 | Inheritance
 | Week 11 | 03/25 | Polymorphism
-| Week 12 | 04/01 | Error Handline & Exceptions
+| Week 12 | 04/01 | Error Handling & Exceptions
 | Week 13 | 04/08 | Pointers
 | Week 14 | 04/15 | Data Structures from std: Sets, Vectors, etc.
 | Week 15 | 04/22 | TBD
