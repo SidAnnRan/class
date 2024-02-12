@@ -11,3 +11,6 @@ and from chapter 6 (Operators) - Sections 6.1, 6.2, 6.4, 6.6, 6.7.
     + See [here](https://www.shellscript.sh/first.html#home) for a basic shell script
     + See [here](https://www.digitalocean.com/community/tutorials/read-command-line-arguments-in-shell-scripts) for giving arguments from the terminal to the shell script.
     + I used the `chmod` command to change the script permission so we could execute it. `chmod` isn't complicated but it usually takes time to explain it. See [here](https://opensource.com/article/19/8/linux-chmod-command) if you want to understand how it works.
+
+# Week of 02-05
+- From [learncpp.com](https://www.learncpp.com/), Sections 0.2, 0.4, 2.7, 4.3, 8.8.
