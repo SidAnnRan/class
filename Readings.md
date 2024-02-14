@@ -14,3 +14,6 @@ and from chapter 6 (Operators) - Sections 6.1, 6.2, 6.4, 6.6, 6.7.
 
 # Week of 02-05
 - From [learncpp.com](https://www.learncpp.com/), Sections 0.2, 0.4, 2.7, 4.3, 8.8.
+
+# Week of 02-12
+- From [learncpp.com](https://www.learncpp.com/), Sections 17.7, 17.8, 17.10, 22.1, 8.5, 8.6, 8.8-8.11.
