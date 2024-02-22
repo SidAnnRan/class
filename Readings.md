@@ -17,3 +17,7 @@ and from chapter 6 (Operators) - Sections 6.1, 6.2, 6.4, 6.6, 6.7.
 
 # Week of 02-12
 - From [learncpp.com](https://www.learncpp.com/), Sections 17.7, 17.8, 17.10, 22.1, 8.5, 8.6, 8.8-8.11.
+
+# Week of 02-18
+- From [learncpp.com](https://www.learncpp.com/), Sections 1.5, 28.1-28.3, 28.6 for streams and file I/O.
+- See [here](https://linuxcommand.org/lc3_lts0010.php) for shell and terminal definitions.
