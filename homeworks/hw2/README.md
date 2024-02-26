@@ -118,6 +118,10 @@ many times to shift the bits in the first one. Feel free to use the decimal argu
 - `bAddBin` (for 80 points)
     Perform binary addition on the 4-bit binary numbers. Don't perform decimal addition and then converbXORt the result. You need to perform binary addition and you can convert the result back to decimal. Sample output:
     ![bAddBin expected output](./images/bAdd.png)
+
+    For overflow, use C++'s wrap-around semantics. For example, for unsigned 8-bit integers, C++ performs addition modulo
+    `2^8`. Example for our 4-bit integers:
+    ![bAddBin overflow expected output](./images/bAddOF.png)
     
     I gave the general advice in class of avoiding implicit conversions between types in C++, but for this task
     of implementing binary addition, its okay to  make an exception and use implicit type conversions from bool to int (`true` is converted to `1` and `false` to `0`). Note that while this is not necessary, it might make your logic simpler.
