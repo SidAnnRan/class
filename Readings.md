@@ -21,3 +21,12 @@ and from chapter 6 (Operators) - Sections 6.1, 6.2, 6.4, 6.6, 6.7.
 # Week of 02-18
 - From [learncpp.com](https://www.learncpp.com/), Sections 1.5, 28.1-28.3, 28.6 for streams and file I/O.
 - See [here](https://linuxcommand.org/lc3_lts0010.php) for shell and terminal definitions.
+
+# Week of 02-26
+- See [this](https://github.com/bminor/bash) repo for a mirror of the bash codebase.
+- See [here](https://opensource.com/article/19/8/what-are-environment-variables) for environment variables and setting PATH.
+- See [here](https://frnn.medium.com/understanding-and-in-linux-bash-navigating-command-sequences-like-a-pro-fe5e72489da1) for command sequencing in bash using `&&`, `||`, `;`.
+- See [here](https://www.howtogeek.com/435903/what-are-stdin-stdout-and-stderr-on-linux/) for redirection.
+- See [here](https://en.cppreference.com/w/c/language/array_initialization) for array initiazation syntax.
+- See [here](https://www.linkedin.com/pulse/mastering-pipes-linux-comprehensive-guide-examples-muhammad-shafique/) for Some interesting possibilities with pipes and redirection.
+- See [here](https://ryanstutorials.net/bash-scripting-tutorial/) for a nice small set of bash scripting tutorials.
