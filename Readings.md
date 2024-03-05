@@ -31,3 +31,8 @@ and from chapter 6 (Operators) - Sections 6.1, 6.2, 6.4, 6.6, 6.7.
 - See [here](https://www.linkedin.com/pulse/mastering-pipes-linux-comprehensive-guide-examples-muhammad-shafique/) for Some interesting possibilities with pipes and redirection.
 - See [here](https://ryanstutorials.net/bash-scripting-tutorial/) for a nice small set of bash scripting tutorials.
 - [This](https://www.tutorialkart.com/bash-shell-scripting/bash-iterate-over-characters-in-string/#gsc.tab=0) is one way to iterate over chars in a string, as opposed to words as we saw in class.
+
+# Week of 03-04
+- From [learncpp.com](https://www.learncpp.com/), Sections 12.1-12.6 for different ways to pass to functions including pass by const reference.
+- From [learncpp.com](https://www.learncpp.com/), Chapter 13 for enums and structs/
+- From [learncpp.com](https://www.learncpp.com/), Sections 14.1 - 14.4 for OOP and classes.
