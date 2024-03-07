@@ -35,4 +35,4 @@ and from chapter 6 (Operators) - Sections 6.1, 6.2, 6.4, 6.6, 6.7.
 # Week of 03-04
 - From [learncpp.com](https://www.learncpp.com/), Sections 12.1-12.6 for different ways to pass to functions including pass by const reference.
 - From [learncpp.com](https://www.learncpp.com/), Chapter 13 for enums and structs/
-- From [learncpp.com](https://www.learncpp.com/), Sections 14.1 - 14.4 for OOP and classes.
+- From [learncpp.com](https://www.learncpp.com/), Sections 14.1 - 14.10 for OOP and classes.
