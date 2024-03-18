@@ -1,4 +1,4 @@
-# Homework 3 (200 points, due 03/25/2024 1:00 PM)
+# Homework 3 (200 points, due 03/27/2024 1:00 PM)
 
 ## Submission Instructions
 Submit **only** the solution files - files where you will enter your solutions - via ICON. For this assignment, 
