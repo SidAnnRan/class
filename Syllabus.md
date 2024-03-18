@@ -19,8 +19,7 @@ the command-line. Students are assumed to have previous programming experience a
 **Email:** arjun.viswanathan23@gmail.com\
 **Office:** 101K Maclean Hall\
 **Office Hours:**
-- Mondays, Wednesdays 11am-12pm (Virtual alternative: https://uiowa.zoom.us/j/95149942757)
-- Tuesdays 4-5pm (Virtual Alternative: https://uiowa.zoom.us/j/99420044510)
+- Mondays, Tuesdays, Wednesdays 11am-12pm (Virtual alternative: https://uiowa.zoom.us/j/95149942757)
 
 ### TA
 #### Erfan Mirzaei
@@ -82,22 +81,22 @@ and if students show enough interest, we might spend more time on some tool feat
 | Week # | Date  | Topic                          |
 |--------|-------|--------------------------------|
 | Week 1 | 01/16 | Intro to Class, Language, Tools; Survey; First C++ Program | 
-| Week 2 | 01/22 | Functions, Types, Variables, Constants
-| Week 3 | 01/29 | Expressions, Statements, Operators
-| Week 4 | 02/05 | Functions
-| Week 5 | 02/12 | Branches, Loops
-| Week 6 | 02/19 | Arrays, Strings
-| Week 7 | 02/26 | Structs/Classes
-| Week 8 | 03/04 | Function & Operator Overloading
-| Week 9 | 03/11 | Spring Break
-| Week 10 | 03/18 | Inheritance
-| Week 11 | 03/25 | Polymorphism
-| Week 12 | 04/01 | Error Handling & Exceptions
-| Week 13 | 04/08 | Pointers
-| Week 14 | 04/15 | Data Structures from std: Sets, Vectors, etc.
-| Week 15 | 04/22 | TBD
-| Week 16 | 04/29 | TBD
-| Week 17 | 05/06 | Finals Week (Project submission)
+| Week 2 | 01/22 | Intro contd., Compiled vs Interpreted Languages |
+| Week 3 | 01/29 | Types, Variables, Constants; Intro to Linux Environment and Shell Scripting |
+| Week 4 | 02/05 | Functions, Expressions, Statements, Operators |
+| Week 5 | 02/12 | Branches, C-Style Arrays and Strings |
+| Week 6 | 02/19 | Streams, File I/O; More Shell Scripting |
+| Week 7 | 02/26 | Shells; Linux Basics |
+| Week 8 | 03/04 | Functions, Enums, Structs, Classes |
+| Week 9 | 03/11 | Spring Break |
+| Week 10 | 03/18 | OOP with Classes, Dynamic Arrays |
+| Week 11 | 03/25 | Function & Operator Overloading |
+| Week 12 | 04/01 | Inheritance, Virtual Functions  |
+| Week 13 | 04/08 | Data Structures from std: Sets, Vectors, etc. |
+| Week 14 | 04/15 | Pointers |
+| Week 15 | 04/22 | TBD |
+| Week 16 | 04/29 | TBD |
+| Week 17 | 05/06 | Finals Week (Project submission) |
 
 ## Discussion
 We will primarily use Slack for discussions (both public and private) related to class. Use email only for important information

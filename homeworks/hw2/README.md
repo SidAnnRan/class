@@ -10,7 +10,7 @@ bitwise NOT (`~`), left shift (`<<`), right shift (`>>`), and addition (`+`).
 You will incrementally add code so that the application performs all of the functionality mentioned above. You will 
 notice that the code here has already been modified a little bit from the last version of `int2bin` that we saw in class.
 - First, some of the function names have been changed so that we have a consistent naming convention through the program. 
-- The function `inttobin` is now called `dec2Bin`. Furthermore, the order of indices stored in the array has been reversed. Now, the least significant bit is stored at index `3` and the most significant bit at index `0` of the array. This makes 
+- The function `inttobin` is now called `dec2Bin`. Furthermore, the order of indices stored in the array has been reversed. Now, the most significant bit is stored at index `3` and the least significant bit at index `0` of the array. This makes 
 conversion from binary to decimal more straightforward. However, bit shifting might be counterintuitive, but we have to pick some convention and we'll fix this one.
 - We input 2 integers from the user, and the input taking code has been moved to `inputInt`.
 - Similarly, the code to print our binary values has been moved from `printBin`.
