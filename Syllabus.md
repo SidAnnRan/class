@@ -59,7 +59,7 @@ All of the graded components will be measured in points. Contributions to the gr
 
 ## Assignments
 ### Quizzes
-Instructions for in-class quizzes or surveys will be given on-the-fly, in class. There will be upto one quiz/survey per class.
+Instructions for in-class quizzes or surveys will be given on-the-fly, in class. There will be upto one quiz/survey per class. To keep things fair, you can only miss 3 quizzes due to sickness/personal reasons. For exceptional circumstances, we can make an exception to this rule in the form of a make-up at the end of the semester.
 
 ### Homeworks
 Homework problem specifications will be shared through Github, and submissions will be through ICON (we may switch to submissions 
