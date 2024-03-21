@@ -38,7 +38,6 @@ and from chapter 6 (Operators) - Sections 6.1, 6.2, 6.4, 6.6, 6.7.
 - From [learncpp.com](https://www.learncpp.com/), Sections 14.1 - 14.10 for OOP and classes.
 
 # Week of 03-18
-- For classes and constructors, from [learncpp.com](https://www.learncpp.com/), Sections 14.8-14.16.
-- For compilation, from [learncpp.com](https://www.learncpp.com/), Sections 0.4-0.5, 2.7, 2.8, 2.11.
+- For classes and constructors, from [learncpp.com](https://www.learncpp.com/), Sections 14.8-14.10.
+- For compilation, from [learncpp.com](https://www.learncpp.com/), Sections 0.4-0.5, 2.7-2.8, 2.11.
 - See [this](https://www2.cs.sfu.ca/CourseCentral/125/tjd/separate_compile_RGB_color.html), for separate compilation.
-- For function overloading, from [learncpp.com](https://www.learncpp.com/), Sections 11.1-11.3.
