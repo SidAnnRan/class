@@ -41,3 +41,6 @@ and from chapter 6 (Operators) - Sections 6.1, 6.2, 6.4, 6.6, 6.7.
 - For classes and constructors, from [learncpp.com](https://www.learncpp.com/), Sections 14.8-14.10.
 - For compilation, from [learncpp.com](https://www.learncpp.com/), Sections 0.4-0.5, 2.7-2.8, 2.11.
 - See [this](https://www2.cs.sfu.ca/CourseCentral/125/tjd/separate_compile_RGB_color.html), for separate compilation.
+
+# Week of 03-25
+- For GNU make, see [here](https://earthly.dev/blog/g++-makefile/).
