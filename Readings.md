@@ -44,3 +44,7 @@ and from chapter 6 (Operators) - Sections 6.1, 6.2, 6.4, 6.6, 6.7.
 
 # Week of 03-25
 - For GNU make, see [here](https://earthly.dev/blog/g++-makefile/).
+- For header files, from [learncpp.com](https://www.learncpp.com/), Section 15.2.
+- For function overloading, from [learncpp.com](https://www.learncpp.com/), Sections 11.1-11.3.
+- For constructors, from [learncpp.com](https://www.learncpp.com/), Sections 14.11-14.16.
+- For std::vectors, from [learncpp.com](https://www.learncpp.com/), Chapter 16.
