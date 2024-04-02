@@ -48,3 +48,8 @@ and from chapter 6 (Operators) - Sections 6.1, 6.2, 6.4, 6.6, 6.7.
 - For function overloading, from [learncpp.com](https://www.learncpp.com/), Sections 11.1-11.3.
 - For constructors, from [learncpp.com](https://www.learncpp.com/), Sections 14.11-14.16.
 - For std::vectors, from [learncpp.com](https://www.learncpp.com/), Chapter 16.
+
+# Week of 04-01
+- For header guards, from [learncpp.com](https://www.learncpp.com/), Section 2.12.
+- For destructors, from [learncpp.com](https://www.learncpp.com/), Section 15.4.
+- For variable scopes and static variables, from [learncpp.com](https://www.learncpp.com/), Section 7.3-7.10.
