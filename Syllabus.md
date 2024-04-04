@@ -20,6 +20,7 @@ the command-line. Students are assumed to have previous programming experience a
 **Office:** 101K Maclean Hall\
 **Office Hours:**
 - Mondays, Tuesdays, Wednesdays 11am-12pm (Virtual alternative: https://uiowa.zoom.us/j/95149942757)
+- Thursdays 6-7pm (Virtual alternative: https://uiowa.zoom.us/j/97291686173)
 
 ### TA
 #### Erfan Mirzaei
@@ -63,11 +64,11 @@ Instructions for in-class quizzes or surveys will be given on-the-fly, in class.
 
 ### Homeworks
 Homework problem specifications will be shared through Github, and submissions will be through ICON (we may switch to submissions 
-via Github later in the semester). There will be 8-10 homeworks over the course of the semester.
+via Github later in the semester).
 
 ### Project 
-Project will be specified through Github, and submission will be through either Github or ICON (TBD). Project will be specified 
-after Spring Break and due in finals week.
+Project will be specified and submitted through Github. Project will 
+be specified after Spring Break and due in finals week.
 
 ### Late Submissions
 Assigned work must be completed by the designated due dates. This is done to ensure the integrity of the grading and fairness 
