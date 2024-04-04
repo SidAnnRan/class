@@ -19,17 +19,21 @@ the command-line. Students are assumed to have previous programming experience a
 **Email:** arjun.viswanathan23@gmail.com\
 **Office:** 101K Maclean Hall\
 **Office Hours:**
-- Mondays, Tuesdays, Wednesdays 11am-12pm (Virtual alternative: https://uiowa.zoom.us/j/95149942757)
+- Mondays  11am-12pm (Virtual alternative: https://uiowa.zoom.us/j/95149942757)
 - Thursdays 6-7pm (Virtual alternative: https://uiowa.zoom.us/j/97291686173)
 
 ### TA
 #### Erfan Mirzaei
 **Email:** erfan-mirzaei@uiowa.edu
+**Office:** 101K Maclean Hall\
+**Office Hours:**
+- Tuesdays, Wednesdays 11am-12pm (Virtual alternative: https://uiowa.zoom.us/j/95149942757)
 
 ### Department Chair
 #### Alberto Segre
-**Office:** 14G MLH\
 **Email:** alberto-segre@uiowa.edu
+**Office:** 14G MLH\
+
 ## Grading
 The course grade will be determined based on performance on homework assignments, quizzes, surveys, and a final project 
 
