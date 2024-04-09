@@ -55,3 +55,7 @@ and from chapter 6 (Operators) - Sections 6.1, 6.2, 6.4, 6.6, 6.7.
 - For variable scopes and static variables, from [learncpp.com](https://www.learncpp.com/), Section 7.3-7.10.
 - For Git pipeline, see [here](https://www.earthdatascience.org/workshops/intro-version-control-git/basic-git-commands/) but 
   remember to `git pull` before you `git push`.
+
+# Week of 04-08
+- For command line arguments, from [learncpp.com](https://www.learncpp.com/), Section 20.4.
+- For operator overloading, from [learncpp.com](https://www.learncpp.com/), Chapter 21.
