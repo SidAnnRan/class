@@ -59,3 +59,7 @@ and from chapter 6 (Operators) - Sections 6.1, 6.2, 6.4, 6.6, 6.7.
 # Week of 04-08
 - For command line arguments, from [learncpp.com](https://www.learncpp.com/), Section 20.4.
 - For operator overloading, from [learncpp.com](https://www.learncpp.com/), Chapter 21.
+
+# Week of 04-15
+- See [this](https://stackoverflow.com/a/35942890/11162770) StackOverflow answer for saving git username and PAT.
+- [Here's](https://tutorials.codebar.io/version-control/command-line/tutorial.html) a decent tutorial for some of the things we covered using git today.
